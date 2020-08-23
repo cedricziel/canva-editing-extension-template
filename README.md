@@ -10,7 +10,7 @@ with some local state.
 
 ## Usage
 
-TODO: Add image from github
+Click the "Use this template" button on the GitHub UI and you're set.
 
 ## License
 
