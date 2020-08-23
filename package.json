@@ -1,16 +1,15 @@
 {
   "name": "canva-editing-extension",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A basic canva editing extension",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config ./webpack.config.js --mode production",
     "start": "webpack-dev-server --config ./webpack.config.js --mode development"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["canva"],
+  "author": "Cedric Ziel <mail@cedric-ziel.com>",
+  "license": "MIT",
   "devDependencies": {
     "@canva/editing-extensions-api-typings": "0.0.75-alpha.0",
     "html-webpack-plugin": "^4.3.0",
